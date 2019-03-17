@@ -1,6 +1,6 @@
-name: AAPI
+name: Permission
 version: 1.0
-author: Vaffanculo
+author: Esplati
 main: pluginschiene.perm.PermMain
 load: STARTUP
 
