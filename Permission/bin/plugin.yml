@@ -1,0 +1,10 @@
+name: AAPI
+version: 1.0
+author: Vaffanculo
+main: pluginschiene.perm.PermMain
+load: STARTUP
+
+commands:
+  group:
+    usage: /group
+    description: set Users Group
